@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tanujain07.github.io/)**
 
 - 📫 How to reach me **tanujain8319@gmail.com**
 
