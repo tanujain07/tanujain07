@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **[My Portfolio](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m currently working on **[My Portfolio]**
+- 🔭 I’m currently working on **[My Portfolio](https://tanujain07.github.io/)**
 
 - 🌱 I’m currently working on  **Data Structures and Algorithms , React Js, Ember Js, Angular, Yup, Java, Spring Boot, SQL**
 
