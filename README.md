@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[My Portfolio]**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms , React Js.**
+- 🌱 I’m currently working on  **Data Structures and Algorithms , React Js, Ember Js, Angular, Yup, Java, Spring Boot, SQL**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
