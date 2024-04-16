@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[My Portfolio](https://tanujain07.github.io/)**
 
-- 🌱 I’m currently working on  **Data Structures and Algorithms , React Js, Ember Js, Angular, Yup, Java, Spring Boot, SQL**
+- 🌱 I’m currently working on  **Data Structures and Algorithms , React Js, Ember Js, Yup, Java, Spring Boot, SQL, HTML, CSS, SASS/SCSS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
