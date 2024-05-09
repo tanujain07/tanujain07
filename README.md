@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
- - 🔭 I’m currently working for Nagarro as an Engineer in Company Project 
+ - 🔭 I’m currently working for Nagarro as an Engineer in **Company Project** 
 
 <!-- - 🔭 I’m currently working on **[My Portfolio](https://tanujain07.github.io/)** -->
 
