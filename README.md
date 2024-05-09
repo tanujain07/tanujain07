@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[My Portfolio](https://covid-19-tracker-e4bda.web.app/)** -->
+<!-- - 🔭 I’m currently working for Nagarro as an Engineer in Company Project -->
 
 - 🔭 I’m currently working on **[My Portfolio](https://tanujain07.github.io/)**
 
-- 🌱 I’m currently working on  **Data Structures and Algorithms , React Js, Ember Js, Yup, Java, Spring Boot, SQL, HTML, CSS, SASS/SCSS**
+- 🌱 I’m currently working on  **Data Structures and Algorithms, React JS, Ember JS, Yup, Java, Spring Boot, SQL, HTML, CSS, SASS/SCSS, MongoDB, NodeJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
